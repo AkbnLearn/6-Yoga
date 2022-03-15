@@ -4,9 +4,11 @@
 
 # Yoga life style studio
 
-_Akbn group website project_
+_Akbn website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+
+Design:Yoga
 
 ## Project features
 
